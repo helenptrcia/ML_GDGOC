@@ -28,8 +28,8 @@ cd ML_GDGOC
 ### 2. Buat dan Aktifkan Virtual Environment
 ```bash
 python -m venv .venv
-Aktivasi (Windows):
-``` 
+```
+Aktivasi (Windows): 
 ```bash
 .venv\Scripts\activate
 ```
