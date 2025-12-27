@@ -57,3 +57,6 @@ Beberapa insight utama yang diperoleh dari analisis data antara lain:
 🌐 Dashboard
 Dashboard dikembangkan menggunakan Streamlit sebagai media penyampaian hasil analisis secara visual dan interaktif.
 Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara online melalui Streamlit Cloud.
+
+📸 Screenshot
+[assets/screenshot_3.png] [assets/screenshot_2.png] [assets/screenshot_1.png] 
