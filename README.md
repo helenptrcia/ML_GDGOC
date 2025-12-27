@@ -61,8 +61,8 @@ Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara onlin
 📸 Screenshot
 
 <p align="center">
-  <img src="assets/screenshot_1.png" width="300"/>
-  <img src="assets/screenshot_2.png" width="300"/>
-  <img src="assets/screenshot_3.png" width="300"/>
+  <img src="assets/screenshot_1.png" width="500"/>
+  <img src="assets/screenshot_2.png" width="500"/>
+  <img src="assets/screenshot_3.png" width="500"/>
 </p>
 
