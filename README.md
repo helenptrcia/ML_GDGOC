@@ -59,4 +59,10 @@ Dashboard dikembangkan menggunakan Streamlit sebagai media penyampaian hasil ana
 Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara online melalui Streamlit Cloud.
 
 📸 Screenshot
-[assets/screenshot_3.png] [assets/screenshot_2.png] [assets/screenshot_1.png] 
+
+<p align="center">
+  <img src="assets/screenshot_1.png" width="300"/>
+  <img src="assets/screenshot_2.png" width="300"/>
+  <img src="assets/screenshot_3.png" width="300"/>
+</p>
+
