@@ -47,18 +47,18 @@ streamlit run app.py
 
 Dashboard akan terbuka secara otomatis di browser.
 
-📊 Ringkasan Insight Hasil Analisis
+## 📊 Ringkasan Insight Hasil Analisis
 Beberapa insight utama yang diperoleh dari analisis data antara lain:
 - Terdapat beberapa kategori produk dengan volume penjualan yang sangat rendah, menunjukkan perbedaan permintaan yang signifikan antar kategori produk.
 - Distribusi seller sangat terkonsentrasi pada negara bagian São Paulo (SP), sementara state lain memiliki jumlah seller yang relatif lebih sedikit.
 - Keterlambatan pengiriman berkaitan dengan penurunan skor ulasan pelanggan, yang mengindikasikan bahwa ketepatan waktu pengiriman berpengaruh terhadap kepuasan pelanggan.
 - Rasio keterlambatan pengiriman bervariasi antar negara bagian, menunjukkan adanya perbedaan performa logistik antar wilayah.
 
-🌐 Dashboard
+## 🌐 Dashboard
 Dashboard dikembangkan menggunakan Streamlit sebagai media penyampaian hasil analisis secara visual dan interaktif.
 Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara online melalui Streamlit Cloud.
 
-📸 Screenshot
+## 📸 Screenshot
 
 <p align="center">
   <img src="assets/Screenshot_3.png" width="300"/>
