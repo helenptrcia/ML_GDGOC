@@ -56,13 +56,13 @@ Beberapa insight utama yang diperoleh dari analisis data antara lain:
 
 ## 🌐 Dashboard
 Dashboard dikembangkan menggunakan Streamlit sebagai media penyampaian hasil analisis secara visual dan interaktif.
-Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara online melalui Streamlit Cloud.
+Dashboard dapat dijalankan secara lokal maupun dideploy dan diakses secara online melalui Streamlit Cloud (https://dashboard-e-commerce-helenptrcia.streamlit.app/)
 
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="assets/Screenshot_3.png" width="300"/>
-  <img src="assets/Screenshot_2.png" width="300"/>
   <img src="assets/Screenshot_1.png" width="300"/>
+  <img src="assets/Screenshot_2.png" width="300"/>
+  <img src="assets/Screenshot_3.png" width="300"/>
 </p>
 
